@@ -1,0 +1,6 @@
+Brcko, Bosna i Hercegovina;
+London, Engleska;
+Rijeka, Hrvatska;
+Sarajevo, Bosna i Hercegovina;
+Beograd, Srbija;
+Barcelona, Spanija;
